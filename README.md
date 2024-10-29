@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Data Analyst with a Master's in Data Science from the University of Adelaide and 3 years of experience as a Junior Software Engineer. I have a deep passion for uncovering insights from complex datasets and helping organizations make data-driven decisions. My expertise spans Data Analysis, Visualization, Predictive Modeling, and Statistical Analysis, utilizing tools like Python, R, SQL, and Tableau.
+I'm a Data Analyst with a Master's in Data Science from the University of Adelaide and 3 years of experience as a Data Analyst. I have a deep passion for uncovering insights from complex datasets and helping organizations make data-driven decisions. My expertise spans Data Analysis, Visualization, Predictive Modeling, and Statistical Analysis, utilizing tools like Python, R, SQL, and Tableau.
 
 - 🌱 I’m currently expanding my skills in **Advanced Machine Learning** and **Big Data Analytics**.
 - 👯 I’m looking to collaborate on projects focused on **Data Science**, **Predictive Modeling**, and **Machine Learning**.
