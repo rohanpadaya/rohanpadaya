@@ -1,15 +1,19 @@
 # Hi there 👋
 
-I'm a Data Analyst with a Master's in Data Science from the University of Adelaide and 3 years of experience as a Data Analyst. I have a deep passion for uncovering insights from complex datasets and helping organizations make data-driven decisions. My expertise spans Data Analysis, Visualization, Predictive Modeling, and Statistical Analysis, utilizing tools like Python, R, SQL, and Tableau.
+I'm Rohan Padaya, a Business Intelligence Analyst based in Adelaide, with a Master's in Data Science from the University of Adelaide and professional experience across data analysis, reporting, business intelligence, and software engineering.
 
-- 🌱 I’m currently expanding my skills in **Advanced Machine Learning** and **Big Data Analytics**.
-- 👯 I’m looking to collaborate on projects focused on **Data Science**, **Predictive Modeling**, and **Machine Learning**.
-- 📫 How to reach me: Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/rohan-padaya-87134a137/) or [GitHub](https://github.com/rohanpadaya) profiles.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Even the smallest data can reveal the biggest insights when analyzed correctly.
+Currently, I work as a Business Intelligence Analyst at Discovery Parks – G’day Group, where I build and maintain Power BI reports, analyse operational and commercial datasets, validate reporting outputs, and translate stakeholder requirements into clear insights and data products. My work supports teams across Operations, Marketing, WHS, Customer Experience, and Executive reporting across a 300+ park network.
 
-### My Social Profile:
+My core skills include SQL, Power BI, Microsoft Fabric, Python, R, data modelling, data validation, dashboard development, and stakeholder reporting. I enjoy working at the intersection of data, business context, and storytelling to help organisations make better evidence-based decisions.
+
+- 🔍 Currently working on: Business intelligence, reporting automation, data validation, and stakeholder-facing analytics
+- 🌱 Currently learning: Microsoft Fabric, advanced Power BI modelling, data engineering concepts, and scalable analytics workflows
+- 👯 Open to collaborating on: Data analytics, business intelligence, dashboarding, public datasets, and end-to-end data projects
+- 🛠️ Tools I use: SQL, Power BI, Microsoft Fabric, Python, R, DAX, Power Query, Excel, Azure DevOps, and GitHub
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rohan-padaya-87134a137/) or explore my work here on GitHub
+- ⚡ Fun fact: I enjoy turning messy data into clear stories that help people make better decisions.
+
+### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/rohan-padaya-87134a137/)
-
-For any queries, feel free to reach out to me at [rohan.padaya.rh@gmail.com](mailto:rohan.padaya.rh@gmail.com), and I'll be happy to connect!
+- [Email](mailto:rohan.padaya.rh@gmail.com)
